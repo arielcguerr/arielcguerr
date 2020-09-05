@@ -4,7 +4,7 @@
 
 - 📖 I’m currently a High School student.
 - 🖥 I love web technologies like React, NodeJS...
-- 🤔 I’m currently learning Typescript, Prisma and PostgreSQL.
+- 🤔 I’m currently learning Typescript, TypeORM and PostgreSQL.
 - 📫 You can contact me via [Twitter (arielcguerr)](https://twitter.com/arielcguerr) or my [blog](https://arielcostas.es/blog)
 - 🕹 When I'm not programming, I like playing videogames too!
 
